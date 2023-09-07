@@ -10,7 +10,7 @@
 
 ## 📗 Table of Contents
 
-- [📖 Template for Ruby linters configuration ready to be used ](#-Create a school library-)
+- [📖 Template for Ruby linters configuration ready to be used ](#-Create project in Ruby-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -30,10 +30,7 @@
 
 # 📖 TEMPLATE FOR RUBY LINTERS CONFIGURATION READY TO BE USED <a name="about-project"></a>
 
-**TEMPLATE FOR RUBY LINTERS CONFIGURATION READY TO BE USED** project records what books are in the library and who borrows them. This app allow users to:
-Add new students or teachers.
-Add new books.
-Save records of who borrowed a given book and when..
+**TEMPLATE FOR RUBY LINTERS CONFIGURATION READY TO BE USED** Goal of the project
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -84,7 +81,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```bash
-  cd 
+  cd repo-name
   bundle install
 ```
 
@@ -131,7 +128,7 @@ If you like this project you can share this project to your friend
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank microverse for this project
+I would like to thank Microverse for this project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
